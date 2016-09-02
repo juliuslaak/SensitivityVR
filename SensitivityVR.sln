@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitivityVR.CSharp", "SensitivityVR.CSharp.csproj", "{2B217FC2-FB45-031E-D044-2AB4E1D6959A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensitivityVR.CSharp.Editor", "SensitivityVR.CSharp.Editor.csproj", "{580B1524-5201-DF93-C4B9-ACC72228C97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B217FC2-FB45-031E-D044-2AB4E1D6959A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B217FC2-FB45-031E-D044-2AB4E1D6959A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B217FC2-FB45-031E-D044-2AB4E1D6959A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B217FC2-FB45-031E-D044-2AB4E1D6959A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580B1524-5201-DF93-C4B9-ACC72228C97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580B1524-5201-DF93-C4B9-ACC72228C97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580B1524-5201-DF93-C4B9-ACC72228C97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580B1524-5201-DF93-C4B9-ACC72228C97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
